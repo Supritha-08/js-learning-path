@@ -1,0 +1,9 @@
+#Scoping with var let and const
+  var num1=10;
+  function score(){
+  var num2=20;
+  console.log(num2);
+  }
+
+#In es5 functions build only local scope
+#in es6 functions build only block scope
